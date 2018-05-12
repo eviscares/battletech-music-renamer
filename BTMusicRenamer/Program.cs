@@ -1,4 +1,6 @@
-﻿using System;
+﻿// (c)2018 David Pusch, see License.txt for full license
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
